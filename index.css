@@ -1036,7 +1036,7 @@ section{
     .contact .contact-content .right, .contact .contact-content .left {
         width: 275px;
         margin-top: 30px;
-        margin-left: 45px;
+        margin-left: 55px;
     }
 }
 
@@ -1061,7 +1061,7 @@ section{
         font-size: 14px;
     }
     .showcase-text .text-2{
-        font-size: 35px;
+        font-size: 40px;
         margin: 10px 0;
     }
     .about > h1,
@@ -1070,9 +1070,10 @@ section{
     .teams > h1,
     .contact > h1{
         font-size: 60px;
+        transform: translateY(-5px);
     }
     .skills > h1 {
-        transform: translateY(-15px);
+        transform: translateY(-35px);
     }
     .about .about-content .right{
         width: 250px;
@@ -1101,7 +1102,7 @@ section{
     }
     .work_item {
         margin-right: 15px;
-        margin-top: -20px;
+        margin-top: -40px;
     }
     .skills_container {
         grid-template-columns: 180px 150px;
