@@ -1069,7 +1069,7 @@ section{
     .contact > h1{
         font-size: 60px;
         transform: translateY(7px);
-        padding-bottom: 20px;
+        margin-bottom: 40px;
     }
     .about .about-content .right{
         width: 90%;
