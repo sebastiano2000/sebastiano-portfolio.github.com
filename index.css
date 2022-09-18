@@ -1070,10 +1070,10 @@ section{
     .teams > h1,
     .contact > h1{
         font-size: 60px;
-        transform: translateY(-3px);
+        transform: translateY(-2px);
     }
     .skills > h1 {
-        transform: translateY(-33px);
+        transform: translateY(-32px);
     }
     .about .about-content .right{
         width: 250px;
