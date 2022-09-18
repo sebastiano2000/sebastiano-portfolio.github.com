@@ -1034,8 +1034,9 @@ section{
         width: 300px;
     }
     .contact .contact-content .right, .contact .contact-content .left {
-        width: 300px;
+        width: 285px;
         margin-top: 30px;
+        margin-left: 15px;
     }
 }
 
@@ -1069,15 +1070,15 @@ section{
     .teams > h1,
     .contact > h1{
         font-size: 60px;
-        transform: translateY(7px);
+        transform: translateY(10px);
     }
     .skills > h1 {
-        transform: translateY(30px);
+        transform: translateY(50px);
     }
     .about .about-content .right{
-        width: 90%;
+        width: 250px;
         padding: 0 5px;
-        margin-top: 30px;
+        margin: 30px 10px -20px 0;
     }
     .service{
         margin-left: -60px;
@@ -1085,6 +1086,7 @@ section{
     }
     .service-content {
         margin-left: -60px;
+        margin-bottom: 20px;
     }
     .shadowone{
         display: none;
@@ -1093,8 +1095,7 @@ section{
         display: none;
     }
     .work_filters {
-        column-gap: 1.5rem;
-        margin-top: 20px;
+        margin-right: 10px;
     }
     .skills_container {
         grid-template-columns: 180px 150px;
